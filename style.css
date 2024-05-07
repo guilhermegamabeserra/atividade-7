@@ -1,0 +1,15 @@
+*body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+body {
+    color: cyan;
+}
+
+    h1, h2, h3 {
+        color: aquamarine;
+    }
